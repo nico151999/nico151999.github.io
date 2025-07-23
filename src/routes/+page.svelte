@@ -214,10 +214,12 @@
 <style>
 	h1 {
 		font-size: 3em;
+		text-align: center;
 	}
 
 	h2 {
 		font-size: 2em;
+		text-align: center;
 	}
 
 	h3 {
